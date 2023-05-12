@@ -1,6 +1,5 @@
-﻿
-// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Alteração da Lavigne");
 Console.WriteLine(" Alteração da Kethellen");
 Console.WriteLine("Alteração do pedro");
 Console.WriteLine("Alteração da Luana");
